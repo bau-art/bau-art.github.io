@@ -1,0 +1,42 @@
+.big-photo{
+    background-image: url(banner.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: aliceblue;
+    margin-bottom: 50px;
+}
+img{
+    width: 100%;
+}
+.logo-img{
+    width: 50px;
+    
+}
+.hut{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.459), rgba(0, 0, 255, 0.438)), url(the-hut-bg.png);
+    height: 300px;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin: 50px 0;
+    color: white;
+}
+
+.teretory{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.459), rgba(0, 0, 255, 0.438)), url(the-area.png);
+    height: 300px;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin: 50px 0;
+    color: white;
+}
+.footer{
+    background-color: navy;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 50px;
+    color: #dbdbdb;
+}
+html{
+    scroll-behavior: smooth;
+}
