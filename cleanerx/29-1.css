@@ -1,0 +1,42 @@
+img{
+    width: 100%;
+}
+.card-1 img{
+    width: 40%;
+}
+.card-1{
+    padding: 20px;
+    text-align: center;
+}
+.how-it-works{
+    background: linear-gradient(to bottom, lightblue, white);
+    padding: 50px;
+}
+.card-2 img{
+    width: 40%;
+}
+.card-2{
+    padding: 20px;
+    text-align: center;
+    border: 1px solid blue;
+    height: 100%;
+}
+.covid{
+    background: linear-gradient(to right bottom, rgb(255, 255, 255), rgb(132, 0, 255));
+    border-radius: 20px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}
+.house{
+    background: linear-gradient(to right bottom, rgb(94, 176, 243), rgb(150, 50, 231));
+    border-radius: 20px;
+    padding: 30px;
+
+}
+.list-rooms{
+list-style-image: url(list-img.png);
+}
+.navbar{
+    background: linear-gradient(to right, rgb(110, 89, 196), #ffffff, rgb(32, 17, 247));
+}
