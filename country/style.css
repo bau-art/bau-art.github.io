@@ -1,0 +1,15 @@
+img{
+    width: 100%;
+}
+.navb{
+    text-align: center;
+    background-color: gray;
+}
+.my-bg-1{
+    background-color: rgb(169, 236, 169);
+}
+.my-shadow{
+ box-shadow: grey 10px 10px 10px;   }
+[class *col]{
+    padding: 20px 10px;
+}
