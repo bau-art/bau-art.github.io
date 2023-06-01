@@ -1,0 +1,62 @@
+img{
+    width: 100%;
+}
+button{
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(103, 39, 163);
+}
+button:hover{
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(135, 66, 199);
+}
+.fon-1{
+    padding: 20px 0;
+    background-image: url(708.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+
+}
+.fon-2{
+    margin: 10px 0;
+     padding: 20px 0;
+    background-image: url(708.jpg);
+}
+
+[class*=col]{
+    padding: 25px;
+}
+.golovna a{
+    text-decoration: none;
+    color: aliceblue;
+}
+footer{
+    margin: 40px;
+    padding: 30px 0;
+    color: rgb(255, 255, 255);
+    background-color: rgb(108, 108, 108);
+}
+
+
+.navbar-brand{
+    font-family: 'Amatic SC', cursive;
+font-family: 'Jost', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+.navbar{
+   background: radial-gradient(grey, white);
+}
+p{
+    font-family: 'Amatic SC', cursive;
+font-family: 'Jost', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.dv{
+    background-color:rgba(128, 128, 128, 0.252)
+}
+.dr{
+    background-color:rgba(128, 128, 128, 0.252)
+}
+
