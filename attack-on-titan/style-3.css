@@ -1,0 +1,39 @@
+img{
+    width: 100%;
+}
+.top-text h1{
+    font-family: "Dancing Script", cursive;
+    color: rgb(73, 44, 6);
+    font-size: 4em;
+}
+.top-text p{
+    font-family: "Caveat", cursive;
+    font-size: 1.8em;
+    color: rgb(121, 70, 3);
+}
+.top-text{
+    background-color: #eae878;
+    box-shadow: 0px 5px 20px 10px a37c65;
+}
+.navbar{
+    background: #d4c60a;
+margin-bottom: 30px;
+}
+.nav-link{
+    color: #a37c65;  
+
+font-family: "Comfortaa", sans-serif;
+
+}
+.nav-link.active{
+    color: beige;
+}
+.font{
+     font-family: "Cormorant Garamond", serif;
+}
+.line{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
